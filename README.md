@@ -1,1 +1,1 @@
-# api_jobs
+# API Rest feito com Sequelize e Typescript
